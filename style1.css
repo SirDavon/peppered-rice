@@ -1,0 +1,32 @@
+#head {
+    background-image: url(img/UI.jpg) !important;
+    background-color: #1A1A1A !important;
+    background-blend-mode: overlay !important;
+}
+img {
+    max-width: 300px;
+    max-height: 350px;
+}
+
+.card {
+    border: 2px solid white !important;
+    background-color:transparent !important;
+    border-radius: 15px !important;
+}
+
+#head a:hover{
+        background-color: #ddd;
+        color: #FF2400;
+
+}
+
+h3{
+    text-align: center;
+    font-weight: bold;
+    color: #fff;
+}
+
+.bg-light{
+    color:#FF2400!important;
+    background-color: #FF2400!important;
+}
